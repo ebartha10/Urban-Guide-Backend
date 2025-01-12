@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f3c2fd0-4261-4373-bfba-9b2c2aafabd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/urbanGuideBackend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urbanGuideBackend/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urbanGuideBackend/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urbanGuideBackend/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urbanGuideBackend/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urbanGuideBackend/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urbanGuideBackend/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urbanGuideBackend/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urbanGuideBackend/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urbanGuideBackend/wsgi.py" afterDir="false" />
-    </list>
+    <list default="true" id="0f3c2fd0-4261-4373-bfba-9b2c2aafabd7" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,8 +101,17 @@
       <workItem from="1736258019096" duration="21830000" />
       <workItem from="1736410043481" duration="722000" />
       <workItem from="1736530830313" duration="60000" />
-      <workItem from="1736699468154" duration="1894000" />
+      <workItem from="1736699468154" duration="2304000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1736702040702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736702040702</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,10 +122,20 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
